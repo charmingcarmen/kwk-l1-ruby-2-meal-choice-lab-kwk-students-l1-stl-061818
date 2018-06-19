@@ -9,7 +9,7 @@ def breakfast(food="flosted flake")
 end
 
 def lunch(food="gilled cheese")
-  puts ""
+  puts "afternoon is the best time for "
 
 
 
