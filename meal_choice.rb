@@ -9,11 +9,11 @@ def breakfast(food="flosted flake")
 end
 
 def lunch(food="gilled cheese")
-  puts "afternoon is the best time for "
+  puts "afternoon is the best time for #{food}! "
+end
 
-
-
-
+def dinner(food=salmon)
+ puts "dinner is the best time for #{food}!"
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
